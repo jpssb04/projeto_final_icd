@@ -16,7 +16,7 @@ Matrícula | Nome
 20220007070 | Gustavo Souza Barros de Araújo
 00000000000 | Gustavo Johan
 00000000000 | Serpa
-00000000000 | Fábio
+20220128745 | Fábio Soares de Lima
 
 ## Dicionário dos Dados
 
