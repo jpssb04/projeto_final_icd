@@ -16,7 +16,7 @@ Matrícula | Nome
 20220007070 | Gustavo Souza Barros de Araújo
 00000000000 | Gustavo Johan
 00000000000 | Serpa
-00000000000 | Fábio
+20220128745 | Fábio Soares de Lima
 
 # Dicionário dos Dados
 ##### DATASET - IMÓVEIS SÃO PAULO
@@ -68,7 +68,13 @@ V010                | Variância do rendimento nominal mensal das pessoas de 10 
 V011                | Valor do rendimento nominal médio mensal das pessoas de 10 anos ou mais de idade (com rendimento)
 V012                | Variância do rendimento nominal mensal das pessoas de 10 anos ou mais de idade (com rendimento)
 
-## Hipóteses
+## Perguntas
+1. **Quais os bairros onde os imóveis são mais valorizados, na média?**
+2. **Qual o preço médio do m2 nos bairros mais valorizados?**
+3. **Cerca de 80% dos imóveis estão abaixo dos R$ 2.000.000,00 de reais?**
+4. **A coluna metragem possui um valor de correlação de Pearson forte com o preço do imóvel (pelo menos 0.6)?**
+5. **Quais são os imóveis que apresentam as melhores oportunidades de negócio, Ou seja, preço abaixo da mediana de preços do seu bairro?**
+6. **Para cada unidade acrescida na quantidade de 'Quartos', o preço médio dos imóveis aumenta em 10%?**
 
 ## Conclusão
 
