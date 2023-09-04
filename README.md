@@ -14,7 +14,7 @@ Projeto final da disciplina de Introdução a Ciência de Dados ministrado pelo 
 Matrícula | Nome
 --- | ---
 20220007070 | Gustavo Souza Barros de Araújo
-00000000000 | Gustavo Johan
+20220167322 | Gustavo Johan Vieira Vasconcelos
 00000000000 | Serpa
 20220128745 | Fábio Soares de Lima
 
