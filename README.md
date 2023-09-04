@@ -15,7 +15,7 @@ Matrícula | Nome
 --- | ---
 20220007070 | Gustavo Souza Barros de Araújo
 20220167322 | Gustavo Johan Vieira Vasconcelos
-20220071240 | Serpa
+20220071240 | João Pedro Serpa de Souza Batista
 20220128745 | Fábio Soares de Lima
 
 # Dicionário dos Dados
